@@ -14,4 +14,5 @@ Usage:
 3- The analysis results will be in the Results folder.
 
 4- Buy items with high CBPR and sell items with high CSPR. Try to trade items with similiar CBPR accross different days (CBPR1d, CBPR3d, CBPR7d)
- 
+
+You can contact me on meserbetcioglu@gmail.com or mserbet#6975 for any questions.
